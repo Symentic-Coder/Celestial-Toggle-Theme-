@@ -2,7 +2,6 @@
 
 Immerse yourself in the celestial beauty of day-night transitions with this React-based toggle theme! This repository provides a mesmerizing day-night mode switch adorned with celestial elements like the sun, moon, and stars. Elevate your React development skills by seamlessly integrating this celestial toggle into your projects.
 
-[![Watch the Reel](https://img.youtube.com/vi/PVYL10W2XAA/0.jpg)](https://www.youtube.com/watch?v=PVYL10W2XAA)
 
 🎥 **Watch the Reel:** [Celestial Toggle Theme Reel](https://www.youtube.com/watch?v=PVYL10W2XAA)
 
